@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http://(.+.)?corensc.gov.br/spaf/ [NC]
+RewriteRule .*.(pdf)$ http://sistemas.corensc.gov.br/spaf/404.html  [L]
+
+Order Deny,Allow
+Deny from all

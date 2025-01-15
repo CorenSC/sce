@@ -1,0 +1,11 @@
+Order allow,deny
+Deny from all
+
+IndexIgnore *
+Options -Indexes
+
+ErrorDocument 404 "<center><h1>Erro 404</h1><h3>O arquivo requisitado n&atilde;o existe.</h3></center>"
+
+<ifModule mod_headers.c>
+    Header set Access-Control-Allow-Origin: *
+</ifModule>

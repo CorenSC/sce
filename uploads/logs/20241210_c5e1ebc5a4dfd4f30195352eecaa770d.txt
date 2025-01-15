@@ -1,0 +1,48 @@
+10/12/2024 12:29:50 /sistemas/sce/no_login.php 192.168.4.75 Usuário não encontrado - Você precisa clicar no quadrado "Não sou um robô" antes de enviar o formulário
+10/12/2024 16:21:38 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:23:09 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:26:23 /sistemas/sce/control/index_user.php 192.168.4.75 Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+10/12/2024 16:26:48 /sistemas/sce/control/index_user.php 192.168.4.75 Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+10/12/2024 16:30:28 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:30:32 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:30:35 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:30:48 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:30:50 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:30:51 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:30:54 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:31:36 /sistemas/sce/control/index_user.php 192.168.4.75 Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+10/12/2024 16:31:54 /sistemas/sce/control/edit_pro.php 192.168.4.75 Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+10/12/2024 16:46:22 /sistemas/sce/control/index_user.php 192.168.4.75 Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+10/12/2024 16:46:31 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:46:34 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:46:35 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:47:35 /sistemas/sce/control/index_user.php 192.168.4.75 Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+10/12/2024 16:47:40 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:47:41 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:47:42 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:47:43 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:47:44 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:47:46 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:47:47 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:47:48 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:47:50 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:50:03 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:50:05 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:50:06 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:50:08 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:50:09 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:50:11 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:50:12 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 16:50:17 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:06:56 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:07:21 /sistemas/sce/control/index_perfiluser.php 192.168.4.75 Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+10/12/2024 17:08:25 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:08:27 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:08:29 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:18:39 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:19:10 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:24:43 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:24:45 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:24:46 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:24:48 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 
+10/12/2024 17:24:49 /sistemas/sce/control/edit_user.php 192.168.4.75 O usuário selecionado não foi encontrado ou está inativo - 

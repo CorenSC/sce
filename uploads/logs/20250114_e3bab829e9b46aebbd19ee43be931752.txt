@@ -1,0 +1,1 @@
+14/01/2025 12:44:51 /sistemas/sce/control/edit_pro.php 192.168.4.75 (thiago.rauber) Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos

@@ -1,0 +1,9 @@
+11/12/2024 10:04:47 /sistemas/sce/control/index_perfiluser.php 192.168.4.75 (thiago.rauber) Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+11/12/2024 11:56:20 /sistemas/sce/control/edit_modelo.php 192.168.4.75 (thiago.rauber) Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+11/12/2024 11:56:48 /sistemas/sce/control/edit_pro.php 192.168.4.75 (thiago.rauber) Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+11/12/2024 11:57:10 /sistemas/sce/control/edit_pro.php 192.168.4.75 (thiago.rauber) Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+11/12/2024 11:57:20 /sistemas/sce/control/edit_pro.php 192.168.4.75 (thiago.rauber) Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+11/12/2024 12:00:58 /sistemas/sce/control/edit_pro.php 192.168.4.75 (thiago.rauber) Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+11/12/2024 12:01:08 /sistemas/sce/control/edit_pro.php 192.168.4.75 (thiago.rauber) Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+11/12/2024 13:56:25 /sistemas/sce/control/edit_pro.php 192.168.4.75 (thiago.rauber) Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos
+11/12/2024 15:53:06 /sistemas/sce/control/index_perfiluser.php 192.168.4.75 (thiago.rauber) Acesso negado - Sem permissão de acesso, link quebrado ou dados inválidos

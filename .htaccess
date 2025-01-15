@@ -1,0 +1,21 @@
+LimitRequestBody 20971520
+php_value memory_limit 3G
+php_value post_max_size 256M
+php_value upload_max_filesize 256M
+php_value max_execution_time 300
+php_value session.gc_maxlifetime 86400
+php_value display_errors 1
+php_value display_startup_errors 1
+php_value session.cookie_httponly 1
+
+IndexIgnore *
+Options -Indexes
+
+ErrorDocument 404 "<center><h1>404</h1><h3>O arquivo requisitado n&atilde;o existe.</h3></center>"
+ErrorDocument 403 "<center><h1>403</h1><h3>Acesso Negado</h3></center>"
+ErrorDocument 413 "<center><h1>413</h1><h3>O arquivo enviado excede o tamanho limite de 20 mb.</h3><h3>Se for um arquivo PDF, reduza o tamanho pelo site <a href='https://smallpdf.com/compress-pdf'>www.smallpdf.com</a> e tente novamente, obrigado!</h3><a href='index.php'>Voltar</a><br></center>"
+ErrorDocument 500 "<center><h1>500</h1><h3>O arquivo requisitado n&atilde;o existe.</h3></center>"
+
+<ifModule mod_headers.c>
+    Header set Access-Control-Allow-Origin: *
+</ifModule>
